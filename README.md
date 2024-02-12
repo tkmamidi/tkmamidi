@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tkmamidi
+- 👋 Hi, I’m Tarun Mamidi
 - 👀 I’m interested in Genetics, Genomics, Rare Diseases, Machine learning and AI methods
 - 🌱 I’m currently learning everything about rare diseases and how to diagnose them using AI
 - 💞️ I’m looking to collaborate on end-to-end product development team and experts in the field of rare diseases
