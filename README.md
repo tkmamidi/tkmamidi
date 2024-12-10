@@ -2,6 +2,14 @@
 
 ###
 
+
+- 👋 Hi, I’m Tarun Mamidi
+- 👀 I’m interested in Genetics, Genomics, Rare Diseases, Machine learning and AI methods
+- 🌱 I’m currently learning everything about rare diseases and how to diagnose them using AI
+- 💞️ I’m looking to collaborate on end-to-end product development team and experts in the field of rare diseases
+- 📫 Reach me @ tkmamidi@gmail.com
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tkmamidi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkmamidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -50,12 +58,6 @@
 ###
 
 
-
-- 👋 Hi, I’m Tarun Mamidi
-- 👀 I’m interested in Genetics, Genomics, Rare Diseases, Machine learning and AI methods
-- 🌱 I’m currently learning everything about rare diseases and how to diagnose them using AI
-- 💞️ I’m looking to collaborate on end-to-end product development team and experts in the field of rare diseases
-- 📫 Reach me @ tkmamidi@gmail.com
 
 <!---
 tkmamidi/tkmamidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
