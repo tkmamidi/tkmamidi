@@ -2,12 +2,12 @@
 
 ###
 
-
 - 👋 Hi, I’m Tarun Mamidi
 - 👀 I’m interested in Genetics, Genomics, Rare Diseases, Machine learning and AI methods
 - 🌱 I’m currently learning everything about rare diseases and how to diagnose them using AI
 - 💞️ I’m looking to collaborate on end-to-end product development team and experts in the field of rare diseases
 - 📫 Reach me @ tkmamidi@gmail.com
+
 
 ###
 <div align="center">
@@ -57,6 +57,7 @@
 
 ###
 
+![GitHub followers](https://img.shields.io/github/followers/tkmamidi?style=social) ![GitHub Stars](https://img.shields.io/github/stars/tkmamidi?style=social)  
 
 
 <!---
